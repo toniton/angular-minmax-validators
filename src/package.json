@@ -1,0 +1,29 @@
+{
+  "name": "angular2-minmax-validators",
+  "version": "0.2.5",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/username/repo"
+  },
+  "author": {
+    "name": "Toniton",
+    "email": "akinjiolatoni@gmail.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/username/repo/issues"
+  },
+  "main": "angular2-minmax-validators.umd.js",
+  "module": "angular2-minmax-validators.js",
+  "jsnext:main": "angular2-minmax-validators.js",
+  "typings": "angular2-minmax-validators.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^5.2.10",
+    "@angular/forms": "^5.2.10",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.26"
+  }
+}
